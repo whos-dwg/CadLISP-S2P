@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/s2p.lsp",
+      "bytes": 1507,
+      "sha256": "c09fcbb65b4065141ee7ef13f1fbc261a3949a014bdf39e51c6cf91d1e4f458d",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "S2P",
+          "line": 1
+        }
+      ]
+    }
+  ]
+}

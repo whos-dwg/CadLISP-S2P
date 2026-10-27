@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/s2p.lsp",
+    "commands": [
+      "S2P"
+    ],
+    "title": "SPLINE 批次轉聚合線",
+    "category": "幾何處理",
+    "manual": "README.md"
+  }
+]
